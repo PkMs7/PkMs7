@@ -2,7 +2,7 @@
 
 - 🌱 Estou aprendendo HTML5, CSS3, JavaScript and Git
 - 📫 Contate-me no e-mail: patrickmarques_adm@outlook.com
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronome: Ele/Dele
 
 
 <div align="center">

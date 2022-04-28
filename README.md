@@ -1,6 +1,6 @@
 ### Olá, eu sou Patrick Marques 👋
 
-- 🌱 Estou aprendendo HTML5, CSS3, JavaScript and Git
+- 🌱 Estou aprendendo HTML5, CSS3, JavaScript e Git
 - 📫 Contate-me no e-mail: patrickmarques_adm@outlook.com
 - 😄 Pronome: Ele/Dele
 

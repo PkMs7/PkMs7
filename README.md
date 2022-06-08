@@ -1,6 +1,6 @@
 ### Olá, eu sou Patrick Marques 👋
 
-- 🌱 Estou aprendendo TypeScript, React Native, Angular, .NET C# e Java.
+- 🌱 Estou aprendendo TypeScript, React, Angular, .NET C# e Java.
 - 😄 Pronome: Ele/Dele
 
 

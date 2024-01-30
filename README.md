@@ -1,14 +1,29 @@
+<div align="center">
+  <h3>Olá, eu sou Patrick Marques 👋</h3>
+  <div>
+    <p>🌱 Estou aprendendo .NET C# e Go</p>
+    <p>😄 Pronome: Ele/Dele</p>
+  </div>
+</div>
+
+<!--
 ### Olá, eu sou Patrick Marques 👋
+  
+  - 🌱 Estou aprendendo .NET C# e Go.
+  - 😄 Pronome: Ele/Dele
+-->
 
-- 🌱 Estou aprendendo .NET C# e Go.
-- 😄 Pronome: Ele/Dele
+<div align="center">
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/659461eeae22c12523111485?variant=dark&roadmaps=golang%2Csql%2Cbackend%2Csoftware-architect" alt="roadmap.sh"/></a>
+</div>
 
-
+<!--
 <div align="center">
   <a href="https://github.com/PkMs7">
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PkMs7&&show_icons=true&theme=dark"/>
   <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PkMs7&layout=compact&langs_count=7&theme=dark"/>
 </div>
+-->
 
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Patrick-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">

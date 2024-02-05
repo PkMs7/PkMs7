@@ -14,7 +14,7 @@
 -->
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/659461eeae22c12523111485?variant=dark&roadmaps=golang%2Csql%2Cbackend%2Csoftware-architect" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/659461eeae22c12523111485?variant=dark&roadmaps=golang%2Csql%2Cbackend%2Cpostgresql-dba" alt="roadmap.sh"/></a>
 </div>
 
 <!--

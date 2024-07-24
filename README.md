@@ -1,7 +1,7 @@
 <div align="center">
   <h3>Olá, eu sou Patrick Marques 👋</h3>
   <div>
-    <p>🌱 Estou aprendendo .NET C# e Go</p>
+    <p>🌱 Estou estudando sobre DevOps</p>
     <p>😄 Pronome: Ele/Dele</p>
   </div>
 </div>
@@ -28,6 +28,7 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Patrick-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Patrick-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="Patrick-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="Patrick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Patrick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Patrick-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">

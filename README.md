@@ -38,7 +38,7 @@ Meu objetivo é dominar o ciclo completo de desenvolvimento de aplicações mode
 Vamos nos conectar e compartilhar conhecimentos sobre desenvolvimento Full Cycle e DevOps! 😊
 
 <div align="center">
-  <a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/wide/659461eeae22c12523111485?variant=dark&roadmaps=golang%2Cbackend%2Cpostgresql-dba%2Csql" alt="roadmap.sh"/></a>
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/659461eeae22c12523111485?variant=dark&roadmaps=%2Cdevops%2Cfull-stack%2Csoftware-architect" alt="roadmap.sh"/></a>
 </div>
 
 <!--
